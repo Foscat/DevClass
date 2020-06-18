@@ -1,0 +1,56 @@
+:root{
+	font-size: 18px;
+  }
+  
+  /*html, body {*/
+  /*  margin: 0;*/
+  /*  padding: 0;*/
+  /*}*/
+  
+  /* Styling for the body of website*/
+  body{
+	background-color: cadetblue;
+	font-family: "Ubuntu", sans-serif;
+  }
+  
+  header {
+	height: 500px;
+	background: url(https://epsilon.aeon.co/images/30ac8597-c37d-4bab-bf97-7856f23a55db/idea_sized-a_man_in_a_workshop_with_a_hand_over_his_eyes_in_anguish_whi_wellcome_v0015867.jpg);
+	background-size: cover;
+	
+  }
+  
+  header h1 {
+	text-align: center;
+	background-color: #A1A4A1;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+	font-family: 'Metal Mania', cursive;
+  }
+  
+  main {
+	display: flex;
+  }
+  
+  main img {
+	height: 300px;
+  }
+  
+  nav ul {
+	list-style: none;
+  }
+  
+  nav li {
+	margin: 10px;
+	padding: 5px;
+	border: 1px solid blue;
+  }
+  
+  #content{
+	margin: 10px;
+	border:  solid 2px #065E06;
+	padding: 10px;
+  }
+  
+  
